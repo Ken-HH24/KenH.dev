@@ -2,6 +2,13 @@
 
 Here are some of my latest writings about frontend, work and life.
 
+<BlogPost image="/images/repo-setup/cover.jpg">
+
+**[Recording the setup of repo](./blog/repo-setup)**
+<br>some tips for repo setup
+
+</BlogPost>
+
 <BlogPost image="/images/interview/cover.jpg">
 
 **[Some interview recordings](./blog/interview)**

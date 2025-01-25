@@ -2,6 +2,13 @@
 
 一些关于前端，工作与生活的记录
 
+<BlogPost image="/images/repo-setup/cover.jpg">
+
+**[项目工程化配置](./blog/repo-setup)**
+<br>一些项目工程初始化记录
+
+</BlogPost>
+
 <BlogPost image="/images/interview/cover.jpg">
 
 **[一些面试记录](./blog/interview)**

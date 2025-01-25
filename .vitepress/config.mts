@@ -23,7 +23,10 @@ export default defineConfig({
       label: 'English',
       lang: 'en',
       themeConfig: {
-        nav: [{ text: 'Blog', link: '/blog' }]
+        nav: [
+          { text: 'Home', link: '/' },
+          { text: 'Blog', link: '/blog' }
+        ]
       }
     },
     zh: {
@@ -31,7 +34,10 @@ export default defineConfig({
       lang: 'zh', // optional, will be added  as `lang` attribute on `html` tag
       link: '/zh/', // default /fr/ -- shows on navbar translations menu, can be external
       themeConfig: {
-        nav: [{ text: '文章', link: '/zh/blog' }]
+        nav: [
+          { text: '首页', link: '/zh' },
+          { text: '文章', link: '/zh/blog' }
+        ]
       }
     }
   },

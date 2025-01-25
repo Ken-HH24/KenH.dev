@@ -4,11 +4,18 @@
 
 2022 年毕业后在国内的一家互联网公司做前端开发的工作
 
-主要的工作内容是搭建 toB 相关的人力管理系统（行业称为 HCM），帮助 HR 和管理者更好地管理团队
+前两年的主要工作内容是搭建 toB 相关的人力系统。现在主要在做一些 C 端短剧/短视频相关的前端工作
 
 目前更加专注于拓展自己各方面的视野，不局限于前端，学习系统设计，后端服务等知识，尝试做一些更有趣的项目
 
 ## 最近的文章
+
+<BlogPost image="/images/repo-setup/cover.jpg">
+
+**[项目工程化配置](./blog/repo-setup)**
+<br>一些项目工程初始化记录
+
+</BlogPost>
 
 <BlogPost image="/images/interview/cover.jpg">
 
@@ -24,12 +31,12 @@
 
 </BlogPost>
 
-<BlogPost image="/images/using-zustand-in-realworld-project/cover.jpg">
+<!-- <BlogPost image="/images/using-zustand-in-realworld-project/cover.jpg">
 
 **[在实际项目中使用 zustand 的相关总结](./blog/using-zustand-in-realworld-project)**
 <br>一些 zustand 在实际项目中落地的总结
 
-</BlogPost>
+</BlogPost> -->
 
 
 

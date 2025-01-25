@@ -4,11 +4,18 @@
 
 My name is Ken. I graduated in 2022 and joined an internet company as a frontend engineer.
 
-At the first 2 years of my career my major job is building a HCM(Human Capital Management) system. Now I join a team which builds some cool apps posting albums.
+At the first 2 years of my career my major job is building a HCM(Human Capital Management) system. Now I join a team which builds some short videos apps.
 
 My current focus is on improving myself on other aspects such as system design, backend knowledge, trying to build interesting products.
 
 ## Latest Posts
+
+<BlogPost image="/images/repo-setup/cover.jpg">
+
+**[Recording the setup of repo](./blog/repo-setup)**
+<br>some tips for repo setup
+
+</BlogPost>
 
 <BlogPost image="/images/interview/cover.jpg">
 
@@ -24,21 +31,13 @@ My current focus is on improving myself on other aspects such as system design, 
 
 </BlogPost>
 
-<BlogPost image="/images/using-zustand-in-realworld-project/cover.jpg">
+<!-- <BlogPost image="/images/using-zustand-in-realworld-project/cover.jpg">
 
 **[Using zustand in real world project](./blog/using-zustand-in-realworld-project)**
 <br>Recording some experiences using Zustand in developing projects
 
-</BlogPost>
-
-
-
-<!-- <BlogPost image="/images/vite-build-cover.jpg">
-
-**[vite build](./vite/build.md)**
-<br>Understanding Vite build, a walk through the Vite code base
-
 </BlogPost> -->
+
 
 Checkout all posts at the [Blog](./blog.md)
 
